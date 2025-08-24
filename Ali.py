@@ -30,8 +30,8 @@ requests.urllib3.disable_warnings()
 # login system
 import getpass
 
-username = "ALI"
-password = "BOSS"
+username = "SHAHZADA"
+password = "BRAND"
 
 # username input
 user = input("Enter username: ")
@@ -164,10 +164,10 @@ def window1():
 
 
 # Set window title
-sys.stdout.write('\x1b]2;𓆩【A H B 👑 】𓆪 \x07')
+sys.stdout.write('\x1b]2;𓆩【W W K 👑 】𓆪 \x07')
 
 
-    # AHB Clover Logo - Green - Version 2.5
+    # WWK Clover Logo - Green - Version 2.5
 def ____banner____():
     if 'win' in sys.platform:
         os.system('cls')
